@@ -12,6 +12,7 @@ notifications:
 
 install:
   - npm i
+  - npm run start
 
 script:
   - npm install rimraf -g
